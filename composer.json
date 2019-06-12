@@ -6,7 +6,7 @@
         "php": ">=7.1.0",
         "silverstripe/recipe-plugin": "^1.2",
         "silverstripe/recipe-cms": "^4.4.0@stable",
-        "thelogicstudio/ss-skeleton": "^1.0.0",
+        "thelogicstudio/ss-theme": "^1.0.0",
         "dnadesign/silverstripe-elemental": "3.0.*",
         "dnadesign/silverstripe-elemental-userforms": "^2.0",
         "silverstripe/elemental-fileblock": "1.*",
