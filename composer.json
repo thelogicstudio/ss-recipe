@@ -2,6 +2,13 @@
     "name": "thelogicstudio/ss-recipe",
     "type": "silverstripe-recipe",
     "description": "The Logic Studio's SilverStripe Installer",
+    "authors": [
+        {
+            "name": "The Logic Studio",
+            "homepage": "https://logicstudio.nz",
+            "email": "hello@logicstudio.nz"
+        }
+    ],
     "require": {
         "php": ">=7.1.0",
         "silverstripe/recipe-plugin": "^1.2",
