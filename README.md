@@ -20,6 +20,7 @@ composer{PHP VERSION} require thelogicstudio/ss-recipe
 e.g: composer82 require thelogicstudio/ss-recipe
 
 Packages in this recipe include these and all their dependencies:
+- "silverstripe/linkfield": "^4.0.5"
 - "dnadesign/silverstripe-elemental": "^5.2.3"
 - "dnadesign/silverstripe-elemental-userforms": "^4.1.1"
 - "undefinedoffset/sortablegridfield": "^2.2.0"
