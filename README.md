@@ -7,9 +7,6 @@ SilverStripe Recipe
 1. Add these in your composer.json file.
 
 ```
-"require": {
-        "thelogicstudio/ss-recipe": "^v1.0.0"
-},
 "repositories": [
         { "type": "vcs", "url": "https://github.com/thelogicstudio/ss-recipe" }
 ],
