@@ -24,7 +24,8 @@
     "jonom/focuspoint": "^5.0.0",
     "goldfinch/silverstripe-meta-editor": "^1.2.8",
     "undefinedoffset/silverstripe-nocaptcha": "^2.4.3",
-    "thelogicstudio/silverstripe-resize-image": "^1.0.3"
+    "thelogicstudio/silverstripe-resize-image": "^1.0.3",
+    "wilr/silverstripe-googlesitemaps": "^3.2.0"
   },
   "config": {
     "process-timeout": 600
