@@ -11,21 +11,22 @@
     }
   ],
   "require": {
-    "php": "^8.1",
+    "php": "^8.3",
     "silverstripe/recipe-plugin": "^2.1.0@stable",
-    "silverstripe/vendor-plugin": "^2.1.0@stable",
-    "silverstripe/recipe-cms": "^5.4.0@stable",
-    "silverstripe-themes/simple": "^3.3.2@stable",
-    "silverstripe/login-forms": "^5.3.0@stable",
-    "silverstripe/linkfield": "^4.2.7",
-    "dnadesign/silverstripe-elemental": "^5.4.2",
-    "dnadesign/silverstripe-elemental-userforms": "^4.2.1",
-    "undefinedoffset/sortablegridfield": "^2.2.0",
-    "jonom/focuspoint": "^5.0.0",
+    "silverstripe/vendor-plugin": "^3.0.0@stable",
+    "silverstripe/recipe-cms": "^6.1.0@stable",
+    "silverstripe/startup-theme": "^1.0.11@stable",
+    "silverstripe/login-forms": "^6.1.0@stable",
+    "silverstripe/htmleditor-tinymce": "^1.0.2@stable"
+    "silverstripe/linkfield": "^5.1.2",
+    "dnadesign/silverstripe-elemental": "^6.1.2",
+    "dnadesign/silverstripe-elemental-userforms": "^5.0.0",
+    "undefinedoffset/sortablegridfield": "^3.0.2",
+    "jonom/focuspoint": "^6.0.0",
     "goldfinch/silverstripe-meta-editor": "^1.2.9",
-    "undefinedoffset/silverstripe-nocaptcha": "^2.4.3",
+    "undefinedoffset/silverstripe-nocaptcha": "^3.1.0",
     "thelogicstudio/silverstripe-resize-image": "^1.0.3",
-    "wilr/silverstripe-googlesitemaps": "^3.2.0"
+    "wilr/silverstripe-googlesitemaps": "^4.0.1"
   },
   "config": {
     "process-timeout": 600
