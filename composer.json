@@ -14,18 +14,18 @@
     "php": "^8.5",
     "silverstripe/recipe-plugin": "^2.1.0@stable",
     "silverstripe/vendor-plugin": "^3.0.0@stable",
-    "silverstripe/recipe-cms": "^6.2.0@stable",
+    "silverstripe/recipe-cms": "^6.3.0@stable",
     "silverstripe/startup-theme": "^1.0.12@stable",
     "silverstripe/login-forms": "^6.2.0@stable",
-    "silverstripe/htmleditor-tinymce": "^1.1.0@stable",
-    "silverstripe/linkfield": "^5.2.0",
-    "dnadesign/silverstripe-elemental": "^6.2.0",
-    "dnadesign/silverstripe-elemental-userforms": "^5.1.0",
+    "silverstripe/htmleditor-tinymce": "^1.2.0@stable",
+    "silverstripe/linkfield": "^5.2.2",
+    "dnadesign/silverstripe-elemental": "^6.2.4",
+    "dnadesign/silverstripe-elemental-userforms": "^5.1.1",
     "undefinedoffset/sortablegridfield": "^3.0.2",
-    "jonom/focuspoint": "^6.0.0",
+    "jonom/focuspoint": "^6.0.2",
     "undefinedoffset/silverstripe-nocaptcha": "^3.1.0",
     "thelogicstudio/silverstripe-resize-image": "^v2.0.0",
-    "wilr/silverstripe-googlesitemaps": "^4.0.1"
+    "wilr/silverstripe-googlesitemaps": "^4.1.1"
   },
   "config": {
     "process-timeout": 600
